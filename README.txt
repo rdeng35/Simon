@@ -14,6 +14,5 @@ HOW TO PLAY THE GAME:
 
 Instructions on how to play the game are provided inside of running the game.
 
-Lights will flash in a given order and the objective is to click the lights
-in the same order as they were flashed. The game is completed after successfully
-clicking 15 regions in a row.
+Lights will flash in a given order and the objective is to click the lights in the same order as they were flashed. 
+The game is completed after successfully clicking 15 regions in a row.
