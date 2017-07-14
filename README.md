@@ -1,4 +1,4 @@
-# Simon The Game 
+# Simon The Electronic Memory Game 
 
 ## INSTALL:
   Copy the masm32neilEdition and Irvine folder into your C: drive.
